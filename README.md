@@ -10,7 +10,7 @@ compile using gcc:
 
     gcc -o cls.exe cls.c
 
-second step (2):   EXECUTE THE CODE
+second step (2):   EXECUTE THE PROGRAM
 run the program:
 
     cls.exe
