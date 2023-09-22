@@ -1,5 +1,5 @@
 # cls
-this program is similar to lwindows cls command, cleans the terminal screen
+this program is similar to windows cls command, cleans the terminal screen
 
 first step (1):    COMPILE THE CODE
 compile using make:
